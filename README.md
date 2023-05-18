@@ -11,6 +11,9 @@ Dataset : Sales Superstore 2014-2017
 Link Dashboard Project : 
 https://lookerstudio.google.com/reporting/6b7ef00f-e25e-4199-9707-81abbd069e99
 
+Business Requirements Document Overview : 
+https://drive.google.com/file/d/1CIcNCqN9LzZA37gyOPuuUHvLfxAWb7oT/view?usp=sharing
+
 
 Reading reference :
 https://www.opentracker.net/article/churn-rate
